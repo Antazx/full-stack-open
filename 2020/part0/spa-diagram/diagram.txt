@@ -1,8 +1,0 @@
-title spa-diagram
-
-Client->Server: GET: /spa
-note right of Server: returns SPA app
-Client->Server: GET: main.css
-Client->Server: GET: spa.js
-Client->Server: GET: data.json
-Client->Server: GET: favicon.ico

@@ -1,5 +1,0 @@
-title new-spa-note-diagram
-
-Client->Server: POST: /new_note_spa
-note right of Server: add the note on the server
-note right of Client: add the note on the browser
